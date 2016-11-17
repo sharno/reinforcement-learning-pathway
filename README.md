@@ -1,4 +1,4 @@
-reinforcement-learning-pathway
+Reinforcement Learning Pathway
 ===============================
 
 A list of courses/books/papers that I go through to learn reinforcement learning
