@@ -17,7 +17,7 @@ A list of courses/books/papers that I go through to learn reinforcement learning
 
 - [MDPs I](https://www.youtube.com/watch?v=Vx5IkFJPT_k&index=9&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
 - [MDPs II](https://www.youtube.com/watch?v=2M7mv4-BPCg&index=10&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
-- [Value Iteration](https://www.youtube.com/watch?v=7huURSBATmg&index=11&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)(not a course video)
+- [Value Iteration] (https://www.youtube.com/watch?v=7huURSBATmg&index=11&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt) (not a course video)
 - [Reinforcement Learning I](https://www.youtube.com/watch?v=A5oqQDNntYc&index=12&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
 - [Reinforcement Learning II](https://www.youtube.com/watch?v=R0vTZp0ve4s&index=13&list=PLIeooNSdhQE5kRrB71yu5yP9BRCJCSbMt)
 
