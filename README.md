@@ -10,7 +10,8 @@ A list of courses/books/papers that I go through to learn reinforcement learning
 
 
 ### Reinforcement learning 10 lectures by David Silver from DeepMind
-- [Playlist] (https://www.youtube.com/playlist?list=PLwQyV9I_3POuVsyB3hCyl3Iieb1oWVfPP)
+- [Youtube playlist] (https://www.youtube.com/playlist?list=PLwQyV9I_3POuVsyB3hCyl3Iieb1oWVfPP)
+- [Slides] (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 
 ### CS 188 from Berkeley University lectures of Spring 2016 (MDP and reinforcement learning lectures):
